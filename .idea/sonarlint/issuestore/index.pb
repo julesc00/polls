@@ -15,3 +15,7 @@ B
 polls/views.py,6/8/683bce02bd1cfa8494204f620e7c825c25870471
 >
 polls/tests.py,5/5/55946991bb87b3b12539e955e0a65393197c5922
+O
+polls/static/polls/css/main.css,6/4/644711ea6e2c4ec2fa1bd180403db0ebd4e28814
+>
+polls/admin.py,c/b/cb9f666b169e9c619e93b30612bf9a894974d39d
